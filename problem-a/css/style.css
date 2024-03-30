@@ -1,0 +1,26 @@
+/*
+  Sunny Tian
+  3/29/24
+  Prof. Tim Carlson
+  INFO 340 Section BB
+  Problem 01
+
+  This is the style sheet for my Bojji-themed webpage.
+*/
+
+body {
+  font-size: 16px;
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+p {
+  line-height: 1.5;
+}
+
+img {
+  max-height: 400px;
+}
+
+.blue {
+  color: rgb(61, 105, 214);
+}
